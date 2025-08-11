@@ -11,6 +11,7 @@ public class CalculatormaTest {
 		calculator c1=new calaulator();
 		assertEquals(5,c1.add(5,3));
 		
+		
 	}
 
 	@Test
